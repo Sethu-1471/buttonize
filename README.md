@@ -37,4 +37,4 @@ buttonize supports with basic of styles, Which are optional:
 
 ## Demo
 
-[![Demo CountPages alpha](https://sethu-1471.github.io/buttonize/Example/trail.mp4)[https://sethu-1471.github.io/buttonize/Example/trail.mp4]]
+![caption](https://sethu-1471.github.io/buttonize/Example/trail.mp4)
