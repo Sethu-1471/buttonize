@@ -37,4 +37,4 @@ buttonize supports with basic of styles, Which are optional:
 
 ## Demo
 
-![Farmers Market Finder Demo](https://sethu-1471.github.io/buttonize/Example/trail.gif)
+![Package Demo](https://sethu-1471.github.io/buttonize/Example/trail.gif)
