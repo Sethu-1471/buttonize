@@ -34,3 +34,7 @@ buttonize supports with basic of styles, Which are optional:
 *   *boxShadow* - _String_ (Only to ButtonizeShine)
 *   *border* - _String_ (border-width border-style border-color|initial|inherit)
 *   *rippleColor* - _String_ (Only to buttonizeRipple)
+
+## Demo
+
+[![Demo CountPages alpha](https://sethu-1471.github.io/buttonize/Example/trail.mp4)]
